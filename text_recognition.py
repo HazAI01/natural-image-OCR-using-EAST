@@ -19,7 +19,7 @@ def resize_image(image, new_width, new_height):
 
 
 def main():
-    image_path = "images/sample24.jpg"
+    image_path = "image.jpg"
     resized_width = 320
     resized_height = 320
     padding = 0.0
